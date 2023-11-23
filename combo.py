@@ -2,7 +2,7 @@ import requests
 import telebot
 from telebot import types
 from mody import Tele 
-token = "ً6399833349:AAG4SXwQcqvSkckUim6Z9DvZbGIaq2nlCcQ" #التوكن هنا 
+token = "ً6782615581:AAGjsfl2-tUd2k8uCWtbtiha-XaqE36YzYU" #التوكن هنا 
 bot=telebot.TeleBot(token,parse_mode="HTML")
 
 @bot.message_handler(commands=["start"])
