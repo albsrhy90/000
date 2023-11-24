@@ -1,1 +1,1 @@
-bot: python -m combo
+bot: python -m combo.py
